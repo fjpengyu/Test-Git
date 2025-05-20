@@ -1,7 +1,7 @@
 CREATE TABLE "ZIMS"."focus_config_tbl"
 (
 "id" VARCHAR(64) NOT NULL,
-"fname" VARCHAR(256) DEFAULT NULL,
+"fname" VARCHAR(2561) DEFAULT NULL,
 "fcode" VARCHAR(100) DEFAULT NULL,
 "content" TEXT,
 "createTime" DATETIME(6) DEFAULT NULL,
