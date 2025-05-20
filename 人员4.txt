@@ -9,3 +9,4 @@ CREATE TABLE "ZIMS"."focus_config_tbl"
 "placeType" VARCHAR(10) DEFAULT NULL,
 NOT CLUSTER PRIMARY KEY("id")) STORAGE(ON "MAIN", CLUSTERBTR) ;
 add dev
+add test
